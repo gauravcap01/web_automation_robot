@@ -1,0 +1,4 @@
+﻿*** Test Cases ***,${search_term},${expected_result}
+Case1,Robot Framework,Test Automation
+Case2,Selenium,Web Automation
+Case3,Python,Programming Language

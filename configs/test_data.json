@@ -1,0 +1,10 @@
+[
+    {
+        "search_term": "Robot Framework",
+        "expected_result": "Robot Framework"
+    },
+    {
+        "search_term": "Selenium",
+        "expected_result": "Web Browser Automation"
+    }
+]

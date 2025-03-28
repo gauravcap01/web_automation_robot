@@ -1,0 +1,4 @@
+browser: chrome                  # Browser type (chrome, firefox, edge)
+base_url: https://www.google.com # Base URL
+timeout: 10                       # Default timeout in seconds
+screenshot_dir: results/screenshots
